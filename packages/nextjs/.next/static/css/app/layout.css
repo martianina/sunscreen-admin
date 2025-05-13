@@ -1,6 +1,6 @@
-/*!****************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./styles/globals.css ***!
-  \****************************************************************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!../../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./styles/globals.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
 @import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
 *, ::before, ::after{
   --tw-border-spacing-x: 0;
@@ -1511,6 +1511,14 @@ input.tab:checked + .tab-content,
   background-color: var(--fallback-p,oklch(var(--p)/var(--tw-bg-opacity)));
   --tw-text-opacity: 1;
   color: var(--fallback-pc,oklch(var(--pc)/var(--tw-text-opacity)));
+}
+.badge-secondary{
+  --tw-border-opacity: 1;
+  border-color: var(--fallback-s,oklch(var(--s)/var(--tw-border-opacity)));
+  --tw-bg-opacity: 1;
+  background-color: var(--fallback-s,oklch(var(--s)/var(--tw-bg-opacity)));
+  --tw-text-opacity: 1;
+  color: var(--fallback-sc,oklch(var(--sc)/var(--tw-text-opacity)));
 }
 .badge-accent{
   --tw-border-opacity: 1;
@@ -3302,10 +3310,6 @@ details.collapse summary::-webkit-details-marker{
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
-.my-6{
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
 .my-8{
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -3569,9 +3573,6 @@ details.collapse summary::-webkit-details-marker{
 .w-7{
   width: 1.75rem;
 }
-.w-96{
-  width: 24rem;
-}
 .w-\[18px\]{
   width: 18px;
 }
@@ -3627,9 +3628,6 @@ details.collapse summary::-webkit-details-marker{
 }
 .max-w-xs{
   max-width: 20rem;
-}
-.max-w-\[250px\]{
-  max-width: 250px;
 }
 .flex-1{
   flex: 1 1 0%;
@@ -3819,9 +3817,6 @@ details.collapse summary::-webkit-details-marker{
 .overflow-x-hidden{
   overflow-x: hidden;
 }
-.whitespace-normal{
-  white-space: normal;
-}
 .whitespace-nowrap{
   white-space: nowrap;
 }
@@ -3896,9 +3891,6 @@ details.collapse summary::-webkit-details-marker{
 }
 .border-t{
   border-top-width: 1px;
-}
-.border-accent\/95{
-  border-color: var(--fallback-a,oklch(var(--a)/0.95));
 }
 .border-base-300{
   --tw-border-opacity: 1;
@@ -4010,6 +4002,10 @@ details.collapse summary::-webkit-details-marker{
 .bg-yellow-50{
   --tw-bg-opacity: 1;
   background-color: rgb(254 252 232 / var(--tw-bg-opacity, 1));
+}
+.bg-accent{
+  --tw-bg-opacity: 1;
+  background-color: var(--fallback-a,oklch(var(--a)/var(--tw-bg-opacity, 1)));
 }
 .bg-opacity-50{
   --tw-bg-opacity: 0.5;
@@ -4336,9 +4332,6 @@ details.collapse summary::-webkit-details-marker{
   --tw-text-opacity: 1;
   color: rgb(220 38 38 / var(--tw-text-opacity, 1));
 }
-.text-secondary-content\/75{
-  color: var(--fallback-sc,oklch(var(--sc)/0.75));
-}
 .text-success{
   --tw-text-opacity: 1;
   color: var(--fallback-su,oklch(var(--su)/var(--tw-text-opacity, 1)));
@@ -4478,14 +4471,6 @@ p {
   }
 }
 
-.placeholder\:text-accent\/50::-moz-placeholder{
-  color: var(--fallback-a,oklch(var(--a)/0.5));
-}
-
-.placeholder\:text-accent\/50::placeholder{
-  color: var(--fallback-a,oklch(var(--a)/0.5));
-}
-
 .placeholder\:text-accent\/70::-moz-placeholder{
   color: var(--fallback-a,oklch(var(--a)/0.7));
 }
@@ -4613,11 +4598,6 @@ p {
 
 .focus\:text-base-content\/70:focus{
   color: var(--fallback-bc,oklch(var(--bc)/0.7));
-}
-
-.focus\:text-secondary-content:focus{
-  --tw-text-opacity: 1;
-  color: var(--fallback-sc,oklch(var(--sc)/var(--tw-text-opacity, 1)));
 }
 
 .focus\:outline-none:focus{
@@ -4778,9 +4758,9 @@ p {
   }
 }
 
-/*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./node_modules/@rainbow-me/rainbowkit/dist/index.css ***!
-  \************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!../../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!../../node_modules/@rainbow-me/rainbowkit/dist/index.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* vanilla-extract-css-ns:src/css/reset.css.ts.vanilla.css?source=Lmlla2JjYzAgewogIGJvcmRlcjogMDsKICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIGZvbnQtc2l6ZTogMTAwJTsKICBsaW5lLWhlaWdodDogbm9ybWFsOwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIHRleHQtYWxpZ246IGxlZnQ7CiAgdmVydGljYWwtYWxpZ246IGJhc2VsaW5lOwogIC13ZWJraXQtdGFwLWhpZ2hsaWdodC1jb2xvcjogdHJhbnNwYXJlbnQ7Cn0KLmlla2JjYzEgewogIGxpc3Qtc3R5bGU6IG5vbmU7Cn0KLmlla2JjYzIgewogIHF1b3Rlczogbm9uZTsKfQouaWVrYmNjMjpiZWZvcmUsIC5pZWtiY2MyOmFmdGVyIHsKICBjb250ZW50OiAnJzsKfQouaWVrYmNjMyB7CiAgYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsKICBib3JkZXItc3BhY2luZzogMDsKfQouaWVrYmNjNCB7CiAgYXBwZWFyYW5jZTogbm9uZTsKfQouaWVrYmNjNSB7CiAgb3V0bGluZTogbm9uZTsKfQouaWVrYmNjNTo6cGxhY2Vob2xkZXIgewogIG9wYWNpdHk6IDE7Cn0KLmlla2JjYzYgewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIGNvbG9yOiBpbmhlcml0Owp9Ci5pZWtiY2M3OmRpc2FibGVkIHsKICBvcGFjaXR5OiAxOwp9Ci5pZWtiY2M3OjotbXMtZXhwYW5kIHsKICBkaXNwbGF5OiBub25lOwp9Ci5pZWtiY2M4OjotbXMtY2xlYXIgewogIGRpc3BsYXk6IG5vbmU7Cn0KLmlla2JjYzg6Oi13ZWJraXQtc2VhcmNoLWNhbmNlbC1idXR0b24gewogIC13ZWJraXQtYXBwZWFyYW5jZTogbm9uZTsKfQouaWVrYmNjOSB7CiAgYmFja2dyb3VuZDogbm9uZTsKICBjdXJzb3I6IHBvaW50ZXI7CiAgdGV4dC1hbGlnbjogbGVmdDsKfQouaWVrYmNjYSB7CiAgY29sb3I6IGluaGVyaXQ7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9 */
 [data-rk] .iekbcc0 {
   border: 0;

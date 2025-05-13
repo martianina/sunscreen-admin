@@ -17,34 +17,10 @@ type HeaderMenuLink = {
 
 export const menuLinks: HeaderMenuLink[] = [
   {
-    label: "Home",
-    href: "/",
+    label: "",
+    href: "",
   },
-  {
-    label: "Project",
-    href: "/project",
-    
-  },
-  {
-    label: "Research",
-    href: "/research",
-    
-  },
-  {
-    label: "Protocol",
-    href: "/protocol",
-    
-  },
-  {
-    label: "Transactions",
-    href: "/blockexplorer",
-    
-  },
-  {
-    label: "Marketplace",
-    href: "/marketplace",
-    
-  },
+  
 ];
 
 export const HeaderMenuLinks = () => {

@@ -11,10 +11,11 @@ export default function AdminNavigation() {
           </Link>
         </li>
         <li>
-          <Link href="/your-page" className="btn btn-ghost justify-start w-full text-left">
-            Participants
+          <Link href="/research" className="btn btn-ghost justify-start w-full text-left">
+            Research
           </Link>
         </li>
+       
         <li>
           <Link href="/protocol" className="btn btn-ghost justify-start w-full text-left">
             Protocol
@@ -30,6 +31,7 @@ export default function AdminNavigation() {
             Review
           </Link>
         </li>
+
         <li>
           <Link href="/survey" className="btn btn-ghost justify-start w-full text-left">
             Survey

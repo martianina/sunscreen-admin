@@ -25,6 +25,10 @@ const reviewMetadata = [
         trait_type: "Age",
         value: "35-44",
       },
+      {
+        trait_type: "Reuse",
+        value: "yes",
+      },
     ],
   },
   

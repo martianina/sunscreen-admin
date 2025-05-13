@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/ipfsSurvey/page": "app/ipfsSurvey/page.js",
+  "/protocol/page": "app/protocol/page.js",
   "/consent/page": "app/consent/page.js",
-  "/review/page": "app/review/page.js",
   "/survey/page": "app/survey/page.js",
-  "/your-page/page": "app/your-page/page.js",
-  "/project/page": "app/project/page.js"
+  "/review/page": "app/review/page.js",
+  "/api/ipfs/get-metadata/route": "app/api/ipfs/get-metadata/route.js",
+  "/blockexplorer/page": "app/blockexplorer/page.js"
 }
