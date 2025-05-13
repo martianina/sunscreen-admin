@@ -22,6 +22,11 @@ export default function AdminNavigation() {
           </Link>
         </li>
         <li>
+          <Link href="/blockexplorer" className="btn btn-ghost justify-start w-full text-left">
+            Transactions
+          </Link>
+        </li>
+        <li>
           <Link href="/consent" className="btn btn-ghost justify-start w-full text-left">
             Consent
           </Link>

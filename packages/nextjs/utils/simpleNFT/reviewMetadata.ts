@@ -2,7 +2,7 @@ const reviewMetadata = [
   {
     description: "Ginger Science Product Review",
     external_url: "https://gingerscience.org", // <-- this can link to a page for the specific file too
-    //image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafybeigexxenxbilx23ouhdierwevb4pgoulup5w7mzxgmtwydpfai6ehe",
+    image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreicczsza3gfazbrvhbvk3pik3f7hspgrqfwtqrllkhjmhcuurh67wy",
     name: "Ginger SPF",
     attributes: [
       {
