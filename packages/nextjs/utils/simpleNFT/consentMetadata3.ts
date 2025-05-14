@@ -1,8 +1,8 @@
 const consentMetadata = [
   {
-    description: "Ginger Science Study Enrollment",
+    description: "Study Enrollment",
     external_url: "https://gingerscience.org", // <-- this can link to a page for the specific file too
-    image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreiblkz5urallgl4ko6otrcgm2rrzf22n5coi5rqkmmokrhcilnadjy",
+    image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreihbwb4bp74am3eeiqbgj3ssu7kulxcaovczpdik5z6hhs54ubftyi",
     name: "Ginger SPF",
     attributes: [
       {
@@ -13,11 +13,11 @@ const consentMetadata = [
       
       {
         trait_type: "Survey",
-        value: 0,
+        value: "Survey v.1",
       },
       {
         trait_type: "Reviews",
-        value: 0,
+        value: "Review v.1",
       },
       {
         trait_type: "Jurisdiction",

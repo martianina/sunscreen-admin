@@ -16,7 +16,7 @@ const deployGinger: DeployFunction = async function (hre: HardhatRuntimeEnvironm
   const contract = await ethers.getContractAt("Ginger", result.address);
   const currentOwner = await contract.owner();
 
-  const TARGET_OWNER = "0x1a29B2f286Ce79AdAD09D77b370C043E840e647B";
+  const TARGET_OWNER = "0x6EDc457f2E9675fe02E9671b6CDc6a8B24e0aa1F";
 
   if (currentOwner.toLowerCase() !== TARGET_OWNER.toLowerCase()) {
     const tx = await contract.transferOwnership(TARGET_OWNER);

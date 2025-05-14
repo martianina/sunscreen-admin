@@ -58,40 +58,40 @@ const MyNFTs: NextPage = () => {
         <div className="px-5">
           <h1 className="text-center mb-8">
             <span className="block text-xl font-bold">
-              Consent v.1:{" "}
+              {" "}
               <a
-                href="https://ipfs.io/ipfs/QmcAEnv3bG1WiPBapVz1zLX8rKuwiQSpX7ADuWMLJmaijP"
+                href="https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreihh5etdxk4vy4mnrv6vx7rzy5oyilpxso7ze5s7dondq6fl6sudiu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-primary"
               >
-                View Consent
+                View Consent v.1
               </a>
             </span>
           </h1>
           <h1 className="text-center mb-8">
             <span className="block text-xl font-bold">
-              Review v.1:{" "}
+              {" "}
               <a
-                href="https://ipfs.io/ipfs/QmNyVzcXMNKqtV35yeNHzvmrg8BZSD3XNBkLEojoSfNoLh"
+                href="https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreifjg5z53ag3rpjjkrcumpswe3arq2kwq4hd7zo5pxhawlxk5oxypm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-primary"
               >
-                View Review
+                View Review v.1
               </a>
             </span>
           </h1>
           <h1 className="text-center mb-8">
             <span className="block text-xl font-bold">
-              Survey v.1:{" "}
+              {" "}
               <a
-                href="https://ipfs.io/ipfs/QmY8gnN43ZbtbBAHDEHeXX5tFYfw1MaGBYvNbpfp1bqpe4"
+                href="https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreibxiamw6qwirxevbv45ws4kn3z3sa3pppb5ylp4kyevze4utebt3u
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-primary"
               >
-                View Survey
+                View Survey v.1
               </a>
             </span>
           </h1>

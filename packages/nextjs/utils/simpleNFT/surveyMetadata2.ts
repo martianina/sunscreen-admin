@@ -1,8 +1,8 @@
 const surveyMetadata = [
   {
-    description: "Ginger Science SPF Survey",
+    description: "SPF Survey",
     external_url: "https://gingerscience.org", // <-- this can link to a page for the specific file too
-    image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreie2sicty457eg7zll4xlrkphcepbujp7nhr5wwd2hiihsrrob47iy",
+    image: "https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreiafazywpwzileil5e6nbiatgdv4uigbncj4bphq4qq756zdxgbj7m",
     name: "Ginger SPF",
     attributes: [
       {
