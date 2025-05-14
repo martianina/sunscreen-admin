@@ -1,8 +1,7 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/consent1/page": "app/consent1/page.js",
-  "/protocol/page": "app/protocol/page.js",
   "/review/page": "app/review/page.js",
+  "/protocol/page": "app/protocol/page.js",
   "/consent/page": "app/consent/page.js",
+  "/consent1/page": "app/consent1/page.js",
   "/blockexplorer/page": "app/blockexplorer/page.js"
 }
