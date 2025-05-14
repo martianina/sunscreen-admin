@@ -28,18 +28,18 @@ export default function AdminNavigation() {
         </li>
         <li>
           <Link href="/consent" className="btn btn-ghost justify-start w-full text-left">
-            Consent
+            Enrollments
           </Link>
         </li>
         <li>
           <Link href="/review" className="btn btn-ghost justify-start w-full text-left">
-            Review
+            Reviews
           </Link>
         </li>
 
         <li>
           <Link href="/survey" className="btn btn-ghost justify-start w-full text-left">
-            Survey
+            Surveys
           </Link>
         </li>
         <li>

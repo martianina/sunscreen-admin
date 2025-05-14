@@ -5,9 +5,9 @@
 import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 
 const deployedContracts = {
-  31337: {
+  8453: {
     Ginger: {
-      address: "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+      address: "0xa4fB1bFD0873FE929Ac41C4F68bE2107786E6DFD",
       abi: [
         {
           inputs: [],

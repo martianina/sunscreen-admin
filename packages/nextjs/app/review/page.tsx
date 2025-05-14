@@ -7,7 +7,7 @@ import { RainbowKitCustomConnectButton } from "~~/components/scaffold-eth";
 import { useScaffoldReadContract, useScaffoldWriteContract } from "~~/hooks/scaffold-eth";
 import { notification } from "~~/utils/scaffold-eth";
 import { addToIPFS } from "~~/utils/simpleNFT/ipfs-fetch";
-import reviewMetadata from "~~/utils/simpleNFT/reviewMetadata4";
+import reviewMetadata from "~~/utils/simpleNFT/reviewMetadata1";
 
 const MyNFTs: NextPage = () => {
   const { address: connectedAddress, isConnected, isConnecting } = useAccount();
@@ -57,7 +57,7 @@ const MyNFTs: NextPage = () => {
             <span className="block text-xl font-bold">
              {" "}
               <a
-                href="https://ipfs.io/ipfs/QmNyVzcXMNKqtV35yeNHzvmrg8BZSD3XNBkLEojoSfNoLh"
+                href="https://tan-everyday-mite-419.mypinata.cloud/ipfs/bafkreifjg5z53ag3rpjjkrcumpswe3arq2kwq4hd7zo5pxhawlxk5oxypm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-primary"

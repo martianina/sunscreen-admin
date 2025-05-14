@@ -7,7 +7,7 @@ import { RainbowKitCustomConnectButton } from "~~/components/scaffold-eth";
 import { useScaffoldReadContract, useScaffoldWriteContract } from "~~/hooks/scaffold-eth";
 import { notification } from "~~/utils/scaffold-eth";
 import { addToIPFS } from "~~/utils/simpleNFT/ipfs-fetch";
-import surveyMetadata from "~~/utils/simpleNFT/surveyMetadata4";
+import surveyMetadata from "~~/utils/simpleNFT/surveyMetadata1";
 
 const MyNFTs: NextPage = () => {
   const { address: connectedAddress, isConnected, isConnecting } = useAccount();
