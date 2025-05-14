@@ -1,8 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js",
   "/consent/page": "app/consent/page.js",
-  "/api/ipfs/get-metadata/route": "app/api/ipfs/get-metadata/route.js",
   "/review/page": "app/review/page.js",
-  "/api/ipfs/add/route": "app/api/ipfs/add/route.js"
+  "/protocol/page": "app/protocol/page.js",
+  "/project/page": "app/project/page.js"
 }

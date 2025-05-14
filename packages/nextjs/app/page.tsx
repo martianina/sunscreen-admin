@@ -16,8 +16,8 @@ export default function ProjectPage() {
       <div className="grid md:grid-cols-4 gap-4">
         <div className="md:col-span-3">
           <ProjectDescriptionCard
-            title="Can Sunscreen Prevent Actinic Purpura in Redheads?"
-            description="We’re studying whether consistent sunscreen use can help prevent actinic purpura in redheaded individuals. This research project invites participants to log sunscreen habits, share photos, and compare results across the MC1R phenotype spectrum."
+            title="Global Skin Survey"
+            description="We're studying the global availability of SPF products for redheads."
           />
         </div>
         <div className="md:col-span-1">

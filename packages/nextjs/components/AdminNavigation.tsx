@@ -5,11 +5,7 @@ export default function AdminNavigation() {
   return (
     <nav className="menu">
       <ul className="space-y-2">
-        <li>
-          <Link href="/project" className="btn btn-ghost justify-start w-full text-left">
-            Project
-          </Link>
-        </li>
+        
         <li>
           <Link href="/research" className="btn btn-ghost justify-start w-full text-left">
             Research
@@ -21,11 +17,7 @@ export default function AdminNavigation() {
             Protocol
           </Link>
         </li>
-        <li>
-          <Link href="/blockexplorer" className="btn btn-ghost justify-start w-full text-left">
-            Transactions
-          </Link>
-        </li>
+        
         <li>
           <Link href="/consent" className="btn btn-ghost justify-start w-full text-left">
             Enrollments
