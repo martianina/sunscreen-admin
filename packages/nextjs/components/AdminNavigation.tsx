@@ -35,7 +35,7 @@ export default function AdminNavigation() {
           </Link>
         </li>
         <li>
-          <Link href="/marketplace" className="btn btn-ghost justify-start w-full text-left">
+          <Link href="/" className="btn btn-ghost justify-start w-full text-left">
             Marketplace
           </Link>
         </li>

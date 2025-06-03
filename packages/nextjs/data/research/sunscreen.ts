@@ -1,29 +1,5 @@
 const sunscreenResearch = [
   {
-    id: 'mc1r-uv-photodamage',
-    title: 'Sunscreen and Photodamage in MC1R Carriers',
-    authors: 'Doe et al.',
-    source: 'Journal of Dermatology, 2022',
-    abstractSummary:
-      'This study investigates how UV exposure affects skin aging in MC1R mutation carriers and compares sunscreen efficacy between populations.',
-    link: 'https://pubmed.ncbi.nlm.nih.gov/12345678',
-    tags: ['Sunscreen', 'MC1R', 'Photodamage', 'UVA'],
-    relevanceNotes:
-      'Redheads may exhibit UV damage without visible sunburn. This supports better UVA-filtered sunscreen testing.'
-  },
-  {
-    id: 'barriers-to-use',
-    title: 'Barriers to Sunscreen Use in Melanocompromised Individuals',
-    authors: 'Lee et al.',
-    source: 'Public Health Reports, 2021',
-    abstractSummary:
-      'Survey-based study of behavioral, economic, and cultural barriers preventing consistent sunscreen use in high-risk populations.',
-    link: 'https://pubmed.ncbi.nlm.nih.gov/23456789',
-    tags: ['Sunscreen', 'Access', 'Behavioral Science', 'Health Equity'],
-    relevanceNotes:
-      'Identifies pain points that may be more intense for redheads — sting, smell, cost, and social perception.'
-  },
-  {
     id: 'mc1r-uv-response',
     title: 'The effect of MC1R variants and sunscreen on the response of human melanocytes in vivo to ultraviolet radiation and implications for melanoma',
     authors: 'Kadekaro et al.',
